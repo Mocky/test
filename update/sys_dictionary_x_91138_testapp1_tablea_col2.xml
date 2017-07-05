@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="col1" table="x_91138_testapp1_tablea">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="col2" table="x_91138_testapp1_tablea">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
@@ -15,7 +15,7 @@
         <choice/>
         <choice_field/>
         <choice_table/>
-        <column_label>col1</column_label>
+        <column_label>col2</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -28,7 +28,7 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>col1</element>
+        <element>col2</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <internal_type display_value="Decimal">decimal</internal_type>
@@ -51,16 +51,16 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2017-07-05 14:10:36</sys_created_on>
-        <sys_id>965a90d96f3332004cc752b10b3ee4da</sys_id>
+        <sys_created_on>2017-07-05 15:02:49</sys_created_on>
+        <sys_id>c25854996f3332004cc752b10b3ee456</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>col1</sys_name>
+        <sys_name>col2</sys_name>
         <sys_package display_value="testapp1" source="x_91138_testapp1">dbbb44516f3332004cc752b10b3ee4f2</sys_package>
         <sys_policy/>
         <sys_scope display_value="testapp1">dbbb44516f3332004cc752b10b3ee4f2</sys_scope>
-        <sys_update_name>sys_dictionary_x_91138_testapp1_tablea_col1</sys_update_name>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2017-07-05 15:05:40</sys_updated_on>
+        <sys_update_name>sys_dictionary_x_91138_testapp1_tablea_col2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-07-05 15:02:49</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
