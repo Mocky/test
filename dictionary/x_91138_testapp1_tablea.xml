@@ -2,5 +2,6 @@
 <database>
     <element label="tableA" max_length="40" name="x_91138_testapp1_tablea" type="collection">
         <element label="col1" max_length="20" name="col1" type="decimal"/>
+        <element label="col2" max_length="20" name="col2" type="decimal"/>
     </element>
 </database>
