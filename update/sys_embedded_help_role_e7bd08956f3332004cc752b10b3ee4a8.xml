@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_91138_testapp1.tablea_user" name="x_91138_testapp1.tablea_user">e3bd08956f3332004cc752b10b3ee4a6</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-07-05 14:10:36</sys_created_on>
+        <sys_id>e7bd08956f3332004cc752b10b3ee4a8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>e3bd08956f3332004cc752b10b3ee4a6</sys_name>
+        <sys_package display_value="testapp1" source="x_91138_testapp1">dbbb44516f3332004cc752b10b3ee4f2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="testapp1">dbbb44516f3332004cc752b10b3ee4f2</sys_scope>
+        <sys_update_name>sys_embedded_help_role_e7bd08956f3332004cc752b10b3ee4a8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-07-05 14:10:36</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
